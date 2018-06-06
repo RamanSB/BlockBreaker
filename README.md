@@ -1,2 +1,3 @@
 # BlockBreaker
-![alt text](https://raw.githubusercontent.com/RamanSB/BlockBreaker/BlockBreakerSample.png)
+
+[[https://github.com/RamanSB/BlockBreaker/blob/master/img/BlockBreakerSample.png|alt=BlockBreakerSample]]
